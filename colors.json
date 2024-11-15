@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Beer Cans",
+    "colors": ["#d4800c", "#d2c8aa", "#49777b", "#f67103"]
+  },
+  {
+    "name": "Lager",
+    "colors": ["#def4f6", "#8ba4a5", "#167a4e", "#e5924a"]
+  },
+  {
+    "name": "Hazy Ipa",
+    "colors": ["#eed9c4", "#54b7b1", "#c0b5a9", "#df852d"]
+  },
+  {
+    "name": "I kinda like this one",
+    "colors": ["#123456", "#654321", "#abcdef", "#fedcba"]
+  },
+  {
+    "name": "Finch or Something",
+    "colors": ["#b7dbc8", "#e1df66", "#285d66", "#6da095"]
+  },
+  {
+    "name": "Ice Cream",
+    "colors": ["#f3f4f3", "#d4cbe5", "#26395b", "#ede2ae"]
+  },
+  {
+    "name": "Cool Dark App",
+    "colors": ["#efebe8", "#a73e2d", "#784334", "#231719"]
+  },
+  {
+    "name": "Pretty I guess",
+    "colors": ["#ee8470", "#f6f5f1", "#f9dfa9", "#13100f"]
+  },
+  {
+    "name": "Podcast",
+    "colors": ["#443c3e", "#789571", "#c75560", "#c8a5a7"]
+  },
+  {
+    "name": "Mood Tracker",
+    "colors": ["#f8f4ef", "#4b68b0", "#e0cd8b", "#b4c7c8"]
+  },
+  {
+    "name": "Yoga",
+    "colors": ["#544152", "#e8dccf", "#af986f", "#df8a67"]
+  },
+  {
+    "name": "Other Dark App",
+    "colors": ["#353a40", "#91a5a7", "#5e68e6", "#cd873c"]
+  }
+]
